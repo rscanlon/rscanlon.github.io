@@ -4,5 +4,5 @@
 	border-radius: 150px;
 	-webkit-border-radius: 150px;
 	-moz-border-radius: 150px;
-	background: "rebecca.jpg" no-repeat;
+	background: url("rebecca.jpg") no-repeat;
 	}
